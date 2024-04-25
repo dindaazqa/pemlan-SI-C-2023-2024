@@ -12,8 +12,6 @@ public class Manusia {
         this.nik = nik;
         this.menikah = menikah;
     }
-
-    // Getter dan Setter
     public String getNama() {
         return nama;
     }
